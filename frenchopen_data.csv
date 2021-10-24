@@ -1,0 +1,3 @@
+player,opponent,tournament,year,round,total_points_played,aces,double_faults,first_srv_pct_in,win_pct_first_srv,win_pct_second_srv,net_points_won,break_points_won,rec_pts_won,winners,unforced_errors,total_points_won,fastest_serve,avg_1st_serve,avg_2nd_serve,short_rallies_pts_won,medium_rallies_pts_won,long_rallies_pts_won,medium_rallies_pts_played,short_rallies_pts_played,long_rallies_pts_played
+Z.Diyas,E.Mertens,french_open,2021,1,183,0,3,63/98 (64%),39/63 (62%),15/35 (43%),15/20 (75%),3/6 (50%),30/85 (35%),28,30,84,105 mph,93 mph,83 mph,33,31,20,80,58,45
+E.Mertens,Z.Diyas,french_open,2021,1,183,3,6,50/85 (59%),37/50 (74%),18/35 (51%),13/15 (87%),5/13 (38%),44/98 (45%),39,31,99,116 mph,100 mph,81 mph,47,27,25,80,58,45
